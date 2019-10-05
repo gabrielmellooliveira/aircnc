@@ -18,8 +18,8 @@
 The project is divided into 3 subprojects:
 
 - [**Backend**](./backend/README.md) (NodeJS)
-- [**Frontend**](./backend/README.md) (ReactJS)
-- [**Mobile**](./backend/README.md) (React Native)
+- [**Frontend**](./frontend/README.md) (ReactJS)
+- [**Mobile**](./mobile/README.md) (React Native)
 
 ### License
 
