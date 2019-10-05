@@ -1,3 +1,16 @@
+<p align="center" style="margin: 0px;">
+  <a href="https://github.com/gabrielmellooliveira/aircnc" rel="noopener" target="_blank"><img src="https://github.com/gabrielmellooliveira/aircnc/blob/master/mobile/src/assets/logo@2x.png?raw=true" width="auto" height="100" alt="aircnc-logo"></a></p>
+</p>
+
+<h2 align="center">Frontend - AirCnC</h2>
+
+<div align="center">
+
+[![reactjs](https://img.shields.io/badge/reactjs-16.10.1-blue)](https://reactjs.org)
+[![license](https://img.shields.io/badge/license-MIT-orange)](../LICENSE)
+
+</div>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
